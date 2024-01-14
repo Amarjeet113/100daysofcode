@@ -1,3 +1,4 @@
+//NUMBER OF COMMON FACTORS
 class Solution {
 public:
     int commonFactors(int a, int b) {
