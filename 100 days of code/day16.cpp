@@ -1,1 +1,1 @@
-//
+// LONGEST COMMON PREFIX
