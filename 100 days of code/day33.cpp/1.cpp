@@ -1,4 +1,4 @@
-// Check for Children Sum Property in a Binary Tree
+// Check for Children Sum Property in a Binary Tree(GFG)
 
 class Solution{
 public:
