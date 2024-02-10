@@ -1,4 +1,5 @@
-//
+// Number of paths in a matrix with k coins
+
 
 class Solution {
 public:
