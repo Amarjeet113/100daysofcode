@@ -1,4 +1,4 @@
-// 
+// Find all Critical Connections in the Graph
 
 
 class Solution {
