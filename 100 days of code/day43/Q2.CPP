@@ -1,4 +1,4 @@
-// 
+// WORD BREAK (GFG)
 
 class Solution
 {
