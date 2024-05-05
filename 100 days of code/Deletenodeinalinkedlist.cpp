@@ -1,6 +1,6 @@
 // Delete Node In A linked list (leetcode)
 
-class solution {
+class Solution {
     public: 
     void deleteNode(ListNode * node) {
       node->val=node->next->val;
