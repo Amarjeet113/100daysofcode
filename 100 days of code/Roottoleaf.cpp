@@ -1,4 +1,4 @@
-//  Root To Leaf (LEETCODE)
+//  Root To Leaf (GFG)
 
 class Solution {
 public:
